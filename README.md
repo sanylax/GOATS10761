@@ -4,7 +4,7 @@ This repo is for FTC programming, problem reporting, wiki creations, and code ma
 Please use the Issues Tracker to create a bug report. 
 
 ### To Do List: ###
-- Finish Servo Code and add servoPower
+
 
 ### What is this repository for? ###
 
@@ -23,6 +23,7 @@ Please use the Issues Tracker to create a bug report.
 
 * Use the issue tracking to get quick reply
 * Ask during meeting
+* Email lathalaxsan@gmail.com or neelrr1@gmail.com
 
 # FTC Updates:
 
@@ -41,30 +42,6 @@ Documentation for the FTC SDK are included with this repository.  There is a sub
  * The folder "javadoc" contains the JavaDoc user documentation for the FTC SDK.(C:\Users\--YOUR USER--\Test\ftc-goats-2017\doc\javadoc)
  * The folder "tutorial" contains PDF files that help teach the basics of using the FTC SDK. (C:\Users\--YOUR-USER--\Test\ftc-goats-2017\doc\tutorial)
  
-**************************************************************************************
-)
-Version 1.2 (released on 1.8.17)
-  * Uncommented Scissor
-  * Changed Motor Power from 40/127 to 1/127
-  * Enabled OpMode within Teleops.java, making the Registrosh.java obsolete
-  
-**************************************************************************************
-
-Version 1.1 (released on 1.6.17)
-  * Removed the Lift, Gripper, etc.
-  * Added new Scissor
-  * Added new function Gripper() to make gripper faster.
- 
-**************************************************************************************
-
-Version 1.0 (released on 1.5.17)
-  * Made app compile
-  * Fixed app() method
-  * Cleaned up Libraries and rebuilt server APK
-  * Created new RobotDriver
-  * Fixed NullException()
-  * Force Float Cast to Double
-
 **************************************************************************************
 
 Version 0.1 (released on 1.0.17)
