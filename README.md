@@ -1,3 +1,86 @@
-# This is the  official repository for the G.O.A.T.S. FTC team
-# Clone or download and open in Android Studio as a project.
-# Store your files in TeamCode
+﻿# G.O.A.T.S FTC 2017 Season
+This repo is for FTC programming, problem reporting, wiki creations, and code managment.
+
+Please use the Issues Tracker to create a bug report. 
+
+### To Do List: ###
+- Finish Servo Code and add servoPower
+
+### What is this repository for? ###
+
+* Quick summary
+* Version
+* Code Storage, and Easy Access
+* Logging issues.
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Approval from Coding Team
+
+### Who do I talk to? ###
+
+* Use the issue tracking to get quick reply
+* Ask during meeting
+
+# FTC Updates:
+
+FTC Android Studio project to create FTC Robot Controller app.
+
+This is the FTC SDK that can be used to create an FTC Robot Controller app, with custom op modes.
+The FTC Robot Controller app is designed to work in conjunction with the FTC Driver Station app.
+The FTC Driver Station app is available through Google Play.
+
+To use this SDK, download/clone the entire project to your local computer.
+Use Android Studio to import the folder  ("Import project (Eclipse ADT, Gradle, etc.)").
+
+Documentation for the FTC SDK are included with this repository.  There is a subfolder called "doc" which contains several subfolders:
+
+ * The folder "apk" contains the .apk files for the FTC Driver Station and FTC Robot Controller apps.(C:\Users\--YOUR USER--\Test\ftc-goats-2017\TeamCode\build\outputs\apk)
+ * The folder "javadoc" contains the JavaDoc user documentation for the FTC SDK.(C:\Users\--YOUR USER--\Test\ftc-goats-2017\doc\javadoc)
+ * The folder "tutorial" contains PDF files that help teach the basics of using the FTC SDK. (C:\Users\--YOUR-USER--\Test\ftc-goats-2017\doc\tutorial)
+ 
+**************************************************************************************
+)
+Version 1.2 (released on 1.8.17)
+  * Uncommented Scissor
+  * Changed Motor Power from 40/127 to 1/127
+  * Enabled OpMode within Teleops.java, making the Registrosh.java obsolete
+  
+**************************************************************************************
+
+Version 1.1 (released on 1.6.17)
+  * Removed the Lift, Gripper, etc.
+  * Added new Scissor
+  * Added new function Gripper() to make gripper faster.
+ 
+**************************************************************************************
+
+Version 1.0 (released on 1.5.17)
+  * Made app compile
+  * Fixed app() method
+  * Cleaned up Libraries and rebuilt server APK
+  * Created new RobotDriver
+  * Fixed NullException()
+  * Force Float Cast to Double
+
+**************************************************************************************
+
+Version 0.1 (released on 1.0.17)
+  * Full Commit.
+  * First Compilation
+  * Support for Modern Robotics Compass Sensor.
+  * Support for Modern Robotics Range Sensor.
+  * Revise device names for Pushbot templates to match the names used in Pushbot guide.
+  * Fixed bug so that IrSeekerSensorV3 device is accessible as IrSeekerSensor in hardwareMap.
+  * Modified computer vision code to require an individual Vuforia license (per legal requirement from PTC).
+  * Minor fixes.
+  * Blockly enhancements:
+     - Support for Voltage Sensor.
+     - Support for Analog Input.
+     - Support for Analog Output.
+     - Support for Light Sensor.
+     - Support for Servo Controller.
+
+**************************************************************************************
