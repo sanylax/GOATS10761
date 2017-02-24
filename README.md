@@ -4,6 +4,7 @@ This repo is for FTC programming, problem reporting, wiki creations, and code ma
 Please use the Issues Tracker to create a bug report. 
 
 ### To Do List: ###
+* Season over
 
 
 ### What is this repository for? ###
@@ -15,8 +16,6 @@ Please use the Issues Tracker to create a bug report.
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
 * Approval from Coding Team
 
 ### Who do I talk to? ###
@@ -38,9 +37,14 @@ Use Android Studio to import the folder  ("Import project (Eclipse ADT, Gradle, 
 
 Documentation for the FTC SDK are included with this repository.  There is a subfolder called "doc" which contains several subfolders:
 
- * The folder "apk" contains the .apk files for the FTC Driver Station and FTC Robot Controller apps.(C:\Users\--YOUR USER--\Test\ftc-goats-2017\TeamCode\build\outputs\apk)
- * The folder "javadoc" contains the JavaDoc user documentation for the FTC SDK.(C:\Users\--YOUR USER--\Test\ftc-goats-2017\doc\javadoc)
- * The folder "tutorial" contains PDF files that help teach the basics of using the FTC SDK. (C:\Users\--YOUR-USER--\Test\ftc-goats-2017\doc\tutorial)
+ * The folder "apk" contains the .apk files for the FTC Driver Station and FTC Robot Controller apps. 
+ (GOATS10761\TeamCode\build\outputs\apk)
+ 
+ * The folder "javadoc" contains the JavaDoc user documentation for the FTC SDK.
+ (GOATS10761\doc\javadoc)
+ 
+ * The folder "tutorial" contains PDF files that help teach the basics of using the FTC SDK. 
+ (GOATS10761\doc\tutorial)
  
 **************************************************************************************
 
